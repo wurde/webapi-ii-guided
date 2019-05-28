@@ -4,7 +4,7 @@
   "description": "Guided project for **Web API II** Module",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
